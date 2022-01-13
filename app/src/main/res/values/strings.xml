@@ -1,5 +1,55 @@
 <resources>
     <string name="app_name">Quiz</string>
     <string name="start">Begin</string>
+    <string name="back">Back</string>
+    <string name="level">Level:</string>
+    <string name="level1">Level: 1</string>
+    <string name="level2">Level: 2</string>
+    <string name="level3">Level: 3</string>
+    <string name="text_continue">Continue</string>
+    <string name="x">X</string>
 
+    <string name="lvl_one_text_0">Zero</string>
+    <string name="lvl_one_text_1">One</string>
+    <string name="lvl_one_text_2">Two</string>
+    <string name="lvl_one_text_3">Three</string>
+    <string name="lvl_one_text_4">Four</string>
+    <string name="lvl_one_text_5">Five</string>
+    <string name="lvl_one_text_6">Six</string>
+    <string name="lvl_one_text_7">Seven</string>
+    <string name="lvl_one_text_8">Eight</string>
+    <string name="lvl_one_text_9">Nine</string>
+
+    <string name="lvl_two_text_1" translatable="false">I</string>
+    <string name="lvl_two_text_2" translatable="false">II</string>
+    <string name="lvl_two_text_3" translatable="false">III</string>
+    <string name="lvl_two_text_4" translatable="false">IV</string>
+    <string name="lvl_two_text_5" translatable="false">V</string>
+    <string name="lvl_two_text_6" translatable="false">VI</string>
+    <string name="lvl_two_text_7" translatable="false">VII</string>
+    <string name="lvl_two_text_8" translatable="false">VIII</string>
+    <string name="lvl_two_text_9" translatable="false">IX</string>
+    <string name="lvl_two_text_10" translatable="false">X</string>
+
+    <string name="lvl_three_text_1" translatable="false">Dog</string>
+    <string name="lvl_three_text_2" translatable="false">Cat</string>
+    <string name="lvl_three_text_3" translatable="false">Monkey</string>
+    <string name="lvl_three_text_4" translatable="false">Koala</string>
+    <string name="lvl_three_text_5" translatable="false">Monkey</string>
+    <string name="lvl_three_text_6" translatable="false">Squirrel</string>
+    <string name="lvl_three_text_7" translatable="false">Lemur</string>
+    <string name="lvl_three_text_8" translatable="false">Cat</string>
+    <string name="lvl_three_text_9" translatable="false">Dog</string>
+    <string name="lvl_three_text_10" translatable="false">Cat</string>
+    <string name="lvl_three_text_11" translatable="false">Puma</string>
+    <string name="lvl_three_text_12" translatable="false">Dog</string>
+    <string name="lvl_three_text_13" translatable="false">Deer</string>
+    <string name="lvl_three_text_14" translatable="false">Giraffe</string>
+    <string name="lvl_three_text_15" translatable="false">Dog</string>
+    <string name="lvl_three_text_16" translatable="false">Leopard</string>
+    <string name="lvl_three_text_17" translatable="false">Dog</string>
+    <string name="lvl_three_text_18" translatable="false">Dog</string>
+    <string name="lvl_three_text_19" translatable="false">Ant-eater</string>
+    <string name="lvl_three_text_20" translatable="false">Bear</string>
+    <string name="lvl_three_text_21" translatable="false">Dog</string>
 </resources>

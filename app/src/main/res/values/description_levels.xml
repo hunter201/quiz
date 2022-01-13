@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_one" translatable="false">Choose digit that bigger.\nNumbers may repeat.</string>
+    <string name="level_two" translatable="false">Choose Roman digit that bigger.\nNumbers may repeat.</string>
+    <string name="level_one_end" translatable="false">"Congratulation! The level is finished!\n
+        Do you known that number seven is luck?"</string>
+    <string name="level_two_end" translatable="false">"Congratulation! The level is finished!\n
+        Do you known that Roman numbers haven't zero?"</string>
+    <string name="level_three" translatable="false">Which animal has a longer tongue?</string>
+    <string name="level_three_end" translatable="false">"Congratulation! The level is finished!\n
+        Do you known that bears love a honey?"</string>
+    <string name="level_four" translatable="false">Choose anything food</string>
+</resources>

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/style_btn_stroke_black_95"
     tools:context=".MainActivity">
 
 
@@ -19,8 +20,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
         android:layout_marginStart="50dp"
+        android:layout_marginTop="100dp"
         android:layout_marginEnd="50dp"
         android:layout_marginBottom="200dp"
         android:src="@drawable/main_boy_img" />
@@ -28,22 +29,22 @@
     <LinearLayout
         android:id="@+id/startLayout"
         android:layout_width="wrap_content"
-        android:layout_height="60dp"
+        android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:padding="10dp"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:padding="10dp">
 
         <Button
             android:id="@+id/buttonStart"
+            android:background="@drawable/button_stroke_black95_press_white"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/style_btn_stroke_black_95_press_white"
-            android:layout_weight="1"
-            android:textSize="24sp"
-            android:paddingLeft="10dp"
-            android:paddingRight="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/start"
+            android:textAlignment="center"
             android:textColor="@color/black_95"
-            android:text="@string/start" />
+            android:textSize="24sp" />
     </LinearLayout>
 </RelativeLayout>
